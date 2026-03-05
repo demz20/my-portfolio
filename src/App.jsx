@@ -12,7 +12,7 @@ const Portfolio = () => {
       {/* Hero Section */}
       <header className="max-w-4xl mx-auto py-20">
         <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent">
-          Hi, I'm [Your Name].
+          Hi, I'm Judems Daub.
         </h1>
         <p className="text-xl text-slate-400 max-w-2xl">
           I'm a Developer focused on building clean, automated, and scalable web solutions.
